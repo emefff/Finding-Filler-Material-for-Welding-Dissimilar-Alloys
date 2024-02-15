@@ -11,3 +11,8 @@ The below example shows two alloys and a bunch of filler materials, some of them
 We asked the program to find 6 points, they are drawn in black. The graph is quite crowded, we can zoom the interesting region:
 
 ![Bildschirmfoto vom 2024-02-15 17-13-40](https://github.com/emefff/Finding-Filler-Material-for-Welding-Dissimilar-Alloys/assets/89903493/2002fd65-0d57-4462-8a3a-ed60dfda26cb)
+
+We find that for the lower ferrite content of 5% one filler is interesting, and for the higher contents of 7.5% and 10% another is the better candidate. 
+The Schaeffler diagram has some caveats, please use at your own risk. The mentioned brand names are the property of their respective owners.
+
+emefff@gmx.at
