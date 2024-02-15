@@ -9,7 +9,7 @@ Created on Mon Feb 12 11:28:34 2024
 import matplotlib.pyplot as plt
 import math
 
-#image_name = "/home/mario/pythonProjects/Schaefflerdiagramm/Schaeffler_cut.jpg"
+#image_name = "/home/emefff/pythonProjects/Schaefflerdiagramm/Schaeffler_cut.jpg"
 # image_size = [1854, 1440] # we need the physical_size, we have to transform coordinates
 # def x_transform(Cr_equivalent):
 #     return image_size[0] / 36 *Cr_equivalent
@@ -17,7 +17,7 @@ import math
 #     return image_size[1] / 28 * (28 - Ni_equivalent) # we have to flip the axis!
 
 # in the background we will show a Schaeffler diagram with its axes in the jpg
-image_name = "/home/mario/pythonProjects/Schaefflerdiagramm/Schaeffler_cut2.jpg"
+image_name = "/home/emefff/pythonProjects/Schaefflerdiagramm/Schaeffler_cut2.jpg"
 
 
 def x_transform2(Cr_equivalent):
