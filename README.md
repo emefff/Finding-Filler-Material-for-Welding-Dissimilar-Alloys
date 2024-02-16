@@ -14,7 +14,7 @@ We asked the program to find 6 points, they are drawn in black with a connecting
 
 
 We find that for the lower ferrite content of 5% one filler is interesting, and for the higher contents of 7.5% and 10% another is the better candidate. In this case, we would probably choose the second filler and adwise the welder to aim for
-a lower dilution of the base metals. As one of the steels is a martensitic stainless steel, we would likely have to think about pre- and postheating and an additional heat treatment after welding. 
+a lower dilution of the base metals in order to avoid the martensite line. As one of the steels is a martensitic stainless steel, we would likely have to think about pre- and postheating and an additional heat treatment after welding. 
 The Schaeffler diagram has some caveats it should not be used for certain steels, please use at your own risk. The mentioned brand names are the property of their respective owners.
 
 emefff@gmx.at
