@@ -4,11 +4,11 @@ draw a line to the filler material. Depending on the welding technique, filler m
 the rest of the weld bead will be filler material). Essentially, the newly created alloy in the weld will always lie on this line. If you absolutly do not know which filler to use, this process can take some time in the analog world (reading datasheets,
 drawing a bit etc..). 
 The advantage of this little program is, that you only have to build a little database of your materials and, essentially, do some operations like in the attached code. You'll be able to check a lot of filler materials within fractions of a second.
-The below example shows two alloys and a bunch of filler materials, some of them are completely unusable. Essentially, we want to find dilution points 25% and 30% in the vicinity of a chosen ferrite contents of 5%, 7.5% and 10% (the straight lines on the right-hand side of the diagram). The program will measure the distances of the evaluated points to these lines and choose the best filler for the two alloys. The result looks like this:
+The below example shows two alloys and a bunch of filler materials, some of them are completely unusable. Essentially, we want to find dilution points 25% and 30% in the vicinity of a chosen ferrite content of 5%, 7.5% and 10% (the straight lines on the right-hand side of the diagram). The program will measure the distances of the evaluated points to these lines and choose the best filler for the two alloys. The result looks like this:
 
 ![Bildschirmfoto vom 2024-02-15 17-10-46](https://github.com/emefff/Finding-Filler-Material-for-Welding-Dissimilar-Alloys/assets/89903493/93fd2805-a959-4902-90b5-996d20296bb5)
 
-We asked the program to find 6 points, they are drawn in black. The graph is quite crowded, we can zoom the interesting region:
+We asked the program to find 6 points, they are drawn in black with a connecting line to the dilution point. The graph is quite crowded, we can zoom the interesting region:
 
 ![Bildschirmfoto vom 2024-02-15 17-13-40](https://github.com/emefff/Finding-Filler-Material-for-Welding-Dissimilar-Alloys/assets/89903493/2002fd65-0d57-4462-8a3a-ed60dfda26cb)
 
